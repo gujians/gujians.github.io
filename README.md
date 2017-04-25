@@ -1,2 +1,11 @@
 # gujians.github.io
-my test github
+<!DOCTYPE html>
+<html>
+<script>
+    window.location.href="http://www.baidu.com";
+</script>
+
+<body>
+</body>
+
+</html>
